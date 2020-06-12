@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+# Copyright © 2014-2020 Jakub Wilk <jwilk@jwilk.net>
+# SPDX-License-Identifier: MIT
+
 import sys
 import subprocess as ipc
 
